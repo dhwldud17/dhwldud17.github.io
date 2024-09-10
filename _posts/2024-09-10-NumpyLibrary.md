@@ -1,3 +1,9 @@
+---
+title:  [이론1] Numpy 라이브러리
+categories: [AI-study,ML]
+tags: [TAG]     # TAG names should always be lowercase
+---
+
 # [이론1] Numpy 라이브러리
 
 ---
