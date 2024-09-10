@@ -2,8 +2,11 @@
 ---
 title:[이론1] Numpy 라이브러리
 categories: [AI-study, ML]
-tags: [이론]     # TAG names should always be lowercase
+tags: [이론]    
 ---
+
+
+
 
 # [이론1] Numpy 라이브러리
 
@@ -683,9 +686,3 @@ numpy 배열의 `/`연산은 같은 인덱스에 존재하는 성분끼리 나�
 a/b 
 # 각 원소의 형태가 정수형이므로, 나눗셈 연산에서 자리 버림 발생
 ```
-
----
-
-<span style="color:rgb(120, 120, 120)">본 학습 자료를 포함한 사이트 내 모든 자료의 저작권은 엘리스에 있으며 외부로의 무단 복제, 배포 및 전송을 불허합니다.
-
-Copyright @ elice all rights reserved</span>
